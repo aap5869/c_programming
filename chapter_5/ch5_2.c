@@ -1,12 +1,12 @@
-/* C Programming A Modern Approach                                               
- * Chapter 5                                                                     
+/* C Programming A Modern Approach
+ * Chapter 5
  * Exercise 2                                                                    
- *                                                                               
- * Asks the user for a 24-hour time, then displays the time in 12-hour form.
- *                                                                               
- * Author: Alex Perkins                                                          
- * Date: 28-May-2020                                                           
- */                                                                               
+ *                                                                             
+ *Asks the user for a 24-hour time, then displays the time in 12-hour form.
+ * 
+ * Author: Alex Perkins
+ * Date: 28-May-2020
+ */   
 
 #include <stdio.h>
 #include <inttypes.h>
