@@ -1,0 +1,6 @@
+/home/chileboy/c_programming/chapter_6/CMakeFiles/edit_cache.dir
+/home/chileboy/c_programming/chapter_6/CMakeFiles/rebuild_cache.dir
+/home/chileboy/c_programming/chapter_6/CMakeFiles/ch6_4.dir
+/home/chileboy/c_programming/chapter_6/CMakeFiles/ch6_3.dir
+/home/chileboy/c_programming/chapter_6/CMakeFiles/ch6_2.dir
+/home/chileboy/c_programming/chapter_6/CMakeFiles/ch6_1.dir
