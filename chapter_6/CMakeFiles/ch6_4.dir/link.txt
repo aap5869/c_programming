@@ -1,0 +1,1 @@
+clang -std=c11 -Wall -Wextra -Wpedantic -pedantic -Werror   CMakeFiles/ch6_4.dir/ch6_4.c.o  -o ch6_4 
